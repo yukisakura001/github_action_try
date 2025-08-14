@@ -1,0 +1,12 @@
+{
+  "name": "github_action_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test": "jest"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
